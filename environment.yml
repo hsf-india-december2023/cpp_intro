@@ -31,7 +31,6 @@ dependencies:
   - python-xxhash==3.2.0
   - root==6.28.0
   - scikit-learn==1.2.2
-  - tensorflow-gpu==2.11.0
   - uproot==5.0.5
   - vector==1.0.0
   - zstandard==0.19.0
